@@ -9,6 +9,7 @@
 .idea/**/shelf
 /lib
 /out
+/.idea
 
 # AWS User-specific
 .idea/**/aws.xml
